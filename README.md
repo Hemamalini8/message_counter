@@ -14,4 +14,4 @@ It also displays a warning when the maximum character limit is reached.
 - Clean and responsive design  
 
 ## View Project
-👉 [View Project](#) *(replace `#` with your live link)*
+👉 [View Project](https://hemamalini8.github.io/message_counter/)
